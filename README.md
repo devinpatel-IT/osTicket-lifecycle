@@ -76,35 +76,13 @@ _<strong>EXPLANATION OF TICKET LIFECYCLE:</span></strong>_
 _<strong>EXPLANATION OF TICKET LIFECYCLE:</span></strong>_
 
 <p>
-1.) User two (an employee) submits a ticket reporting that users in the Accounting department are having issues using the Adobe Reader software.
+1.) User two (an employee) submits a ticket reporting that the CFO's laptop is not powering despite being plugged into the charger.
 
-2.) Agent Two (helpdesk) contacts User Two for further briefing on the issue. Agent Two learns that the issue is only affecting two users and not the entire Accounting department. They assign the SLA level to Level C, indicating that the issue must be resolved within 8 hours.
+2.) Agent Two (helpdesk) claims the ticket and reports that he will research into the issue and updates the SLA to Level B, indicating that the issue should be resolved within 4 hours. 
 
-3.) Agent Two (helpdesk) then asks the Accouting Department users to perform a full restart to attempt to resolve the issue.
+3.) Agent Two (helpdesk) later reports that after investigation, the laptop was not powering up due to a faulty charging cord. They indicate that it was replaced and the issue was resolved.
 
-4.) This suggestion ends up working and the ticket is closed out by Agent Two from helpdesk.
+4.) Agent Two (helpdesk) resolves the ticket and closes it out.
 
 </p>
-
-<br />
-
-_<b>2. CREATE SAMPLE USERS </b>_
-
-<img width="1110" height="476" alt="Screenshot 2025-08-05 164357" src="https://github.com/user-attachments/assets/bcfbd1ec-abc7-44b7-b913-0bd391e78434" />
-
-<p>These are employees that will submit tickets to the help desk</p>
-
-<br/> 
-
-_<b>2. CREATE SAMPLE AGENTS </b>_
-
-<img width="1137" height="479" alt="Screenshot 2025-08-05 164224" src="https://github.com/user-attachments/assets/383d3034-3ddd-4ac7-a9b1-c92af8ec6845" />
-
-<p>These are help desk employees that will triage tickets</p>
-
-<br/>
-
-Please continue to next repository to view ticketing system lifecycle.
-[osTicket Lifecycle](https://github.com/devinpatel-osTicket-lifecycle) 
-
 

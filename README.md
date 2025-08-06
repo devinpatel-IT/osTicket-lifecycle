@@ -67,78 +67,25 @@ _<strong>EXPLANATION OF TICKET LIFECYCLE:</span></strong>_
 
 <br />
 
-_<b>2. ESTABLISHED TEAMS (explanation below)</b>_
+<h2>TICKET 684448 - ACCOUNT DEPARTMENT - ADOBE READER ISSUE</h2>
 
 <p>
-<img width="1112" height="421" alt="Screenshot 2025-08-05 164236" src="https://github.com/user-attachments/assets/89db05df-6540-4a28-921d-03485a471e2c" />
+<img width="1110" height="1216" alt="Screenshot 2025-08-05 164007" src="https://github.com/user-attachments/assets/a245bfbe-8f2e-477f-863e-d3d912b728cf" />
 </p>
 
-_<strong>1. Level 1 suppport team</span></strong>_
+_<strong>EXPLANATION OF TICKET LIFECYCLE:</span></strong>_
 
 <p>
-Purpose:
-The Level 1 Support Team acts as the first line of defense for all incoming support tickets. They handle common issues, provide general assistance, and triage requests before escalation.
+1.) User two (an employee) submits a ticket reporting that users in the Accounting department are having issues using the Adobe Reader software.
 
-Key Responsibilities:
-Receive and respond to initial customer inquiries or issues.
+2.) Agent Two (helpdesk) contacts User Two for further briefing on the issue. Agent Two learns that the issue is only affecting two users and not the entire Accounting department. They assign the SLA level to Level C, indicating that the issue must be resolved within 8 hours.
 
-Perform basic troubleshooting for banking services (e.g., login issues, account access problems).
+3.) Agent Two (helpdesk) then asks the Accouting Department users to perform a full restart to attempt to resolve the issue.
 
-Categorize, prioritize, and document tickets clearly.
-
-Resolve low-complexity issues or known problems using standard procedures.
-
-Escalate complex or specialized cases to the appropriate teams (e.g., Online Banking Team, IT, or Level 2 support).
-
-Monitor open tickets to ensure timely responses and customer satisfaction.
-
-Ticket Examples:
-Password reset requests
-
-Unable to access mobile/online banking
-
-Incorrect account balances displayed
-
-Help navigating the banking portal
-
-_<strong>2. Online Banking Team</span></strong>_
-
-Purpose:
-The Online Banking Team is a specialized technical group that manages and supports issues specifically related to the bank’s online banking platform. They are responsible for maintaining a secure, functional, and reliable user experience across the digital banking ecosystem.
-
-Key Responsibilities:
-Handle tickets escalated from Level 1 involving online banking functionality.
-
-Investigate and resolve platform-specific bugs or outages.
-
-Support backend operations of mobile apps, internet banking, and digital account services.
-
-Coordinate with developers, cybersecurity teams, and infrastructure teams as needed.
-
-Test and validate fixes for reported issues before deployment.
-
-Provide feedback and documentation to help the Level 1 team better resolve recurring issues.
-
-Ticket Examples:
-Failed funds transfer through online banking
-
-Online bill payment issues
-
-Errors during account registration via the website/app
-
-MFA (multi-factor authentication) not functioning properly
-
-Security concerns or suspicious online activity
-
-Workflow Summary
-Customers submit tickets through web/app/phone.
-
-Level 1 Support Team triages and resolves simple/general issues.
-
-Tickets requiring technical investigation or platform expertise are escalated to the Online Banking Team.
-
+4.) This suggestion ends up working and the ticket is closed out by Agent Two from helpdesk.
 
 </p>
+
 <br />
 
 _<b>2. CREATE SAMPLE USERS </b>_

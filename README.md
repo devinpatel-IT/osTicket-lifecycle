@@ -23,8 +23,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Three different tickets will be examined with corresponding resolution process.
 - Intake
-- Communication
-- Resolution
+- Each ticket will be displayed serparately followed by its respective lifecycle event explantion. 
+- The easiest way to follow along each lifecycle is to read each step in the explanation while referencing the corresponding ticket image.
 
 
 <h2>INTAKE</h2>
